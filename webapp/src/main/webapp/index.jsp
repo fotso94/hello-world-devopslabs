@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Stephane is very  Happy Learning on DevOpsLabs in 2025</h1>
+   <h1> Stephane is very Happy Learning on DevOpsLabs in 2025 all day all year FEB</h1>
 
   
 </form>

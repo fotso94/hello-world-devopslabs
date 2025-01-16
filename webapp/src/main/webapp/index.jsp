@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>Kubernetes 2027 Winning Stephane is very Happy Learning on DevOpsLabs in 2025 all day all year FEB</h1>
+   <h1>Kubernetes 2026 Winning Stephane is very Happy Learning on DevOpsLabs in 2025 all day all year FEB</h1>
 
   
 </form>

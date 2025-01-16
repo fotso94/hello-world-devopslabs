@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>CD-CI Pipeline Complete DevOpLabs237 on Kubernetes 2026 Winning Stephane is very Happy Learning on DevOpsLabs23777 in 2025 all day all year FEB</h1>
+   <h1>DevOpsLabs23777 and HAPPY LEARNINGB</h1>
 
   
 </form>

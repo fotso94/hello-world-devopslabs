@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Kubernetes 2025 New user Register 04/2025 for DevOpsLabs 237 Learning in April 2025 incomming new job</h1>
+    <h1>Kubernetes 2025 New user Register 04/2025 for DevOpsLabs 237 Learning in April 2025 incomming new job for MAY 2025</h1>
     <p>Please fill in this form to create an account in the Labs 237.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>DevOpsLabs23777 and Good to be back in April 2025</h1>
+   <h1>DevOpsLabs23777 and Good to be back in April 2025 new job Alert</h1>
 
   
 </form>
